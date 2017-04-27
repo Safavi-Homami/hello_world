@@ -1,2 +1,5 @@
 # hello_world
-the first repository
+
+Hallo everyone,
+
+i made some changes , just for testing..ok...lets go on!!!
